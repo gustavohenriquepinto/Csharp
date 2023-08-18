@@ -1,0 +1,14 @@
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\bin\Debug\net7.0\ConsoleAppNetNvlSuperior.exe
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\bin\Debug\net7.0\ConsoleAppNetNvlSuperior.deps.json
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\bin\Debug\net7.0\ConsoleAppNetNvlSuperior.runtimeconfig.json
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\bin\Debug\net7.0\ConsoleAppNetNvlSuperior.dll
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\bin\Debug\net7.0\ConsoleAppNetNvlSuperior.pdb
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\obj\Debug\net7.0\ConsoleAppNetNvlSuperior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\obj\Debug\net7.0\ConsoleAppNetNvlSuperior.AssemblyInfoInputs.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\obj\Debug\net7.0\ConsoleAppNetNvlSuperior.AssemblyInfo.cs
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\obj\Debug\net7.0\ConsoleAppNetNvlSuperior.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\obj\Debug\net7.0\ConsoleAppNetNvlSuperior.dll
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\obj\Debug\net7.0\refint\ConsoleAppNetNvlSuperior.dll
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\obj\Debug\net7.0\ConsoleAppNetNvlSuperior.pdb
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\obj\Debug\net7.0\ConsoleAppNetNvlSuperior.genruntimeconfig.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppNetNvlSuperior\obj\Debug\net7.0\ref\ConsoleAppNetNvlSuperior.dll

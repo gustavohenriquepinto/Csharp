@@ -1,0 +1,17 @@
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\bin\Debug\net7.0-windows\ola-mundo.exe
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\bin\Debug\net7.0-windows\ola-mundo.deps.json
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\bin\Debug\net7.0-windows\ola-mundo.runtimeconfig.json
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\bin\Debug\net7.0-windows\ola-mundo.dll
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\bin\Debug\net7.0-windows\ola-mundo.pdb
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\obj\Debug\net7.0-windows\ola_mundo.Form1.resources
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\obj\Debug\net7.0-windows\ola_mundo.Properties.Resources.resources
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\obj\Debug\net7.0-windows\ola-mundo.csproj.GenerateResource.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\obj\Debug\net7.0-windows\ola-mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\obj\Debug\net7.0-windows\ola-mundo.AssemblyInfoInputs.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\obj\Debug\net7.0-windows\ola-mundo.AssemblyInfo.cs
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\obj\Debug\net7.0-windows\ola-mundo.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\obj\Debug\net7.0-windows\ola-mundo.dll
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\obj\Debug\net7.0-windows\refint\ola-mundo.dll
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\obj\Debug\net7.0-windows\ola-mundo.pdb
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\obj\Debug\net7.0-windows\ola-mundo.genruntimeconfig.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ola-mundo\obj\Debug\net7.0-windows\ref\ola-mundo.dll

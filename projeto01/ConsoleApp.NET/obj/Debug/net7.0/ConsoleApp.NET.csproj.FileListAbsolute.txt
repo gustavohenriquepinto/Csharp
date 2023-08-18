@@ -1,0 +1,14 @@
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\bin\Debug\net7.0\ConsoleApp.NET.exe
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\bin\Debug\net7.0\ConsoleApp.NET.deps.json
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\bin\Debug\net7.0\ConsoleApp.NET.runtimeconfig.json
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\bin\Debug\net7.0\ConsoleApp.NET.dll
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\bin\Debug\net7.0\ConsoleApp.NET.pdb
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\obj\Debug\net7.0\ConsoleApp.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\obj\Debug\net7.0\ConsoleApp.NET.AssemblyInfoInputs.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\obj\Debug\net7.0\ConsoleApp.NET.AssemblyInfo.cs
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\obj\Debug\net7.0\ConsoleApp.NET.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\obj\Debug\net7.0\ConsoleApp.NET.dll
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\obj\Debug\net7.0\refint\ConsoleApp.NET.dll
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\obj\Debug\net7.0\ConsoleApp.NET.pdb
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\obj\Debug\net7.0\ConsoleApp.NET.genruntimeconfig.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleApp.NET\obj\Debug\net7.0\ref\ConsoleApp.NET.dll

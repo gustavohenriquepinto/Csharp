@@ -1,0 +1,7 @@
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppFramework\bin\Debug\ConsoleAppFramework.exe.config
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppFramework\bin\Debug\ConsoleAppFramework.exe
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppFramework\bin\Debug\ConsoleAppFramework.pdb
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppFramework\obj\Debug\ConsoleAppFramework.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppFramework\obj\Debug\ConsoleAppFramework.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppFramework\obj\Debug\ConsoleAppFramework.exe
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\ConsoleAppFramework\obj\Debug\ConsoleAppFramework.pdb

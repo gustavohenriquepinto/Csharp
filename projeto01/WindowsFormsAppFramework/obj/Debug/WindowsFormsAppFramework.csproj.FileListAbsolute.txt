@@ -1,0 +1,10 @@
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\WindowsFormsAppFramework\bin\Debug\WindowsFormsAppFramework.exe.config
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\WindowsFormsAppFramework\bin\Debug\WindowsFormsAppFramework.exe
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\WindowsFormsAppFramework\bin\Debug\WindowsFormsAppFramework.pdb
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\WindowsFormsAppFramework\obj\Debug\WindowsFormsAppFramework.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\WindowsFormsAppFramework\obj\Debug\WindowsFormsAppFramework.Form1.resources
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\WindowsFormsAppFramework\obj\Debug\WindowsFormsAppFramework.Properties.Resources.resources
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\WindowsFormsAppFramework\obj\Debug\WindowsFormsAppFramework.csproj.GenerateResource.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\WindowsFormsAppFramework\obj\Debug\WindowsFormsAppFramework.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\WindowsFormsAppFramework\obj\Debug\WindowsFormsAppFramework.exe
+C:\Users\Gutvo\Desktop\meus-estudos\projeto01\WindowsFormsAppFramework\obj\Debug\WindowsFormsAppFramework.pdb
