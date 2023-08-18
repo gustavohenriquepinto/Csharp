@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gutvo\\Desktop\\estudos-programacao\\MySolution\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Gutvo\\Desktop\\estudos-programacao\\projeto02\\MyConsoleApp\\MyConsoleApp.csproj",
       "projectName": "MyConsoleApp",
-      "projectPath": "C:\\Users\\Gutvo\\Desktop\\estudos-programacao\\MySolution\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Gutvo\\Desktop\\estudos-programacao\\projeto02\\MyConsoleApp\\MyConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Gutvo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gutvo\\Desktop\\estudos-programacao\\MySolution\\MyConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\Gutvo\\Desktop\\estudos-programacao\\projeto02\\MyConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gutvo\\AppData\\Roaming\\NuGet\\NuGet.Config",

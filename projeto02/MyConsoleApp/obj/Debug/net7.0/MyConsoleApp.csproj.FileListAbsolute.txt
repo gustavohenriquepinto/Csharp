@@ -1,0 +1,14 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto02\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
