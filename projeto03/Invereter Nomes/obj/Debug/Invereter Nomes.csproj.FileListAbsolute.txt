@@ -1,0 +1,7 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto03\Invereter Nomes\bin\Debug\Invereter Nomes.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto03\Invereter Nomes\bin\Debug\Invereter Nomes.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto03\Invereter Nomes\bin\Debug\Invereter Nomes.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto03\Invereter Nomes\obj\Debug\Invereter Nomes.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto03\Invereter Nomes\obj\Debug\Invereter Nomes.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto03\Invereter Nomes\obj\Debug\Invereter Nomes.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\projeto03\Invereter Nomes\obj\Debug\Invereter Nomes.pdb
