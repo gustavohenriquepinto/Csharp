@@ -8,6 +8,22 @@ namespace Variaveis
 {
     internal class Program
     {
+
+        //enum Notas
+        //{
+        //    Minima = 10,
+        //    Media = 23,
+        //    Maxima =  352
+        //}
+
+        struct Cadastro
+        {
+            public string nome;
+            public byte idade;
+            public float altura;
+        }
+
+
         static void Main(string[] args)
         {
             #region Numéricos Inteiros
@@ -54,18 +70,67 @@ namespace Variaveis
 
             #region Caractere
 
-            char letra1 = 'C';
-            char letra2 = '\n';
-            char letra3 = '\0';
-            char letra4 = '\\';
+            //char letra1 = 'C';
+            //char letra2 = '\n';
+            //char letra3 = '\0';
+            //char letra4 = '\\';
 
             #endregion
 
-            Console.WriteLine(letra1);
-            Console.WriteLine(letra2);
-            Console.WriteLine(letra1);
-            Console.WriteLine(letra3);
-            Console.WriteLine(letra1);
+            #region Valor Lógico
+
+            bool VouF = true;
+            bool VeF = false;
+
+            #endregion
+
+            #region Textos
+
+            //string texto = "Olá, mundo!";
+            //string simbolo = "!@#$%¨&*()^´]\n.,<>:?/°";
+
+            #endregion
+
+            #region Tipo Var
+
+            //var numero = -124; //Pode assumir um valor numérico real
+            //var text = "Lorem Ipsum"; //Pode assumir valor de string
+            //var logico = false; //Pode assumir valor lógico
+
+            #endregion
+
+            #region Tipo Object
+
+            //object obj = 100;
+            //obj = true;
+            //obj = "Curso em Vídeo";
+
+            #endregion
+
+            #region Constante
+
+            //const float pi = 3.1415f;
+            //const string nome = "Gustavo";
+
+            #endregion
+
+            #region Enumerações
+
+            //Notas NotasdosAlunos = Notas.Media;
+
+            #endregion
+
+            #region Estrutura
+
+            Cadastro p1 = new Cadastro();
+            p1.nome = "Gustavo";
+            p1.idade = 18;
+            p1.altura = 1.72f;
+
+            #endregion
+
+            Console.WriteLine("Olá, meu nome é " + p1.nome + ", tenho " + p1.idade + " anos e " + p1.altura + "m de altura.\n");
+
 
         }
     }
