@@ -13,7 +13,7 @@ namespace projeto04
 
             #region Conversão Implícita
             //byte num1 = 100;
-            //ushort num2 = num1; //O tipo ushort abrange todos os valores do tipo byte
+            //ushort num2 = num1;
 
             //float num3 = -4.8f;
             //double num4 = num3;
@@ -27,6 +27,28 @@ namespace projeto04
 
             #endregion
 
+            #region Conversão Explícita
+
+            //ushort num1 = 257;
+            //byte num2 = (byte)num1;
+
+            //float num3 = 125687.8546f;
+            //int num4 = (int)num3;
+
+            //char l1 = (char)97;
+
+            #endregion
+
+            #region Método Parse
+            //string txt = "1985";
+            //int n1 = int.Parse(txt);
+            //double n2 = double.Parse("12,54");
+            #endregion
+
+            #region Classe Convert
+            //string txt = Convert.ToString(2500);
+            //bool logico = Convert.ToBoolean("true");
+            #endregion        
         }
     }
 }
