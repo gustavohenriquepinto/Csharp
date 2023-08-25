@@ -32,6 +32,24 @@ namespace Operadores
 
             #endregion
 
+            #region Precedência de Operadores
+
+            int n1, n2, n3, r1, r2, r3;
+            n1 = 100;
+            n2 = 10;
+            n3 = 5;
+
+            r1 = n1 + n2 * n3;
+            r2 = n1 - n2 / n3;
+            r3 = (n1 + n2) / n3;
+            double r4 = (double)n1 / 3 + n2 * n1;
+
+            Console.WriteLine(r1);
+            Console.WriteLine(r2);
+            Console.WriteLine(r3);
+            Console.WriteLine(r4);
+
+            #endregion
         }
     }
 }
