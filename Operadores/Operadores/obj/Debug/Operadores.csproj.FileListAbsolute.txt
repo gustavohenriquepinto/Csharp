@@ -1,0 +1,7 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\Operadores\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\Operadores\Operadores\obj\Debug\Operadores.pdb
