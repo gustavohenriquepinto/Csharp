@@ -70,7 +70,7 @@ namespace Operadores
             //Console.WriteLine(NomeCompleto);
             #endregion
 
-
+            #region Operadores de Atribuição
             //double n1, n2;
             //n1 = 4;
             //n2 = 7;
@@ -97,6 +97,43 @@ namespace Operadores
             //n1 = 4;
             //n1 %= n2;
             //Console.WriteLine(n1);
+            #endregion
+
+            #region Operadores de Igualdade
+
+            //bool Log;
+            //Log = 10 != 10;
+            //Log = 10 < 2;
+            //Log = 10 > 4;
+            //Log = 10 >= 5;
+            //Log = 10 <= 10;
+
+            //Console.WriteLine(Log);
+
+            #endregion
+
+            #region Operadores Lógicos
+
+            bool Log1 = true && true;
+            bool Log2 = true && false;
+            bool Log3 = false && true;
+            bool Log4 = false && false;
+
+            bool Log5 = true || true;
+            bool Log6 = true || false;
+            bool Log7 = false || true;
+            bool Log8 = false || false;
+
+            Console.WriteLine(Log1);
+            Console.WriteLine(Log2);
+            Console.WriteLine(Log3);
+            Console.WriteLine(Log4);
+            Console.WriteLine(Log5);
+            Console.WriteLine(Log6);
+            Console.WriteLine(Log7);
+            Console.WriteLine(Log8);
+
+            #endregion
         }
     }
 } 
