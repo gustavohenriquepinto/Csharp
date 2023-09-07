@@ -1,0 +1,7 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\Controle\Controle\bin\Debug\Controle.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\Controle\Controle\bin\Debug\Controle.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\Controle\Controle\bin\Debug\Controle.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\Controle\Controle\obj\Debug\Controle.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\Controle\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\Controle\Controle\obj\Debug\Controle.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\Controle\Controle\obj\Debug\Controle.pdb
