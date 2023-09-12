@@ -1,0 +1,7 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseObjetos\bin\Debug\ClasseObjetos.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseObjetos\bin\Debug\ClasseObjetos.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseObjetos\bin\Debug\ClasseObjetos.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseObjetos\obj\Debug\ClasseObjetos.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseObjetos\obj\Debug\ClasseObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseObjetos\obj\Debug\ClasseObjetos.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseObjetos\obj\Debug\ClasseObjetos.pdb

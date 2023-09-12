@@ -1,0 +1,7 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Med\bin\Debug\Med.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Med\bin\Debug\Med.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Med\bin\Debug\Med.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Med\obj\Debug\MetodosDasClasses.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Med\obj\Debug\MetodosDasClasses.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Med\obj\Debug\Med.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Med\obj\Debug\Med.pdb
