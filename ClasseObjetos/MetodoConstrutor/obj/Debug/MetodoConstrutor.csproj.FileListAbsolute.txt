@@ -1,0 +1,7 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\MetodoConstrutor\bin\Debug\MetodoConstrutor.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\MetodoConstrutor\obj\Debug\MetodoConstrutor.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\MetodoConstrutor\obj\Debug\MetodoConstrutor.pdb

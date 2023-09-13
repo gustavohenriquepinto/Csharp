@@ -1,0 +1,7 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\TipoDelegate\bin\Debug\TipoDelegate.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\TipoDelegate\bin\Debug\TipoDelegate.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\TipoDelegate\bin\Debug\TipoDelegate.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\TipoDelegate\obj\Debug\TipoDelegate.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\TipoDelegate\obj\Debug\TipoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\TipoDelegate\obj\Debug\TipoDelegate.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\TipoDelegate\obj\Debug\TipoDelegate.pdb
