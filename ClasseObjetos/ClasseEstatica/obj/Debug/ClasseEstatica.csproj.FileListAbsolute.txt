@@ -1,0 +1,7 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseEstatica\bin\Debug\ClasseEstatica.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseEstatica\bin\Debug\ClasseEstatica.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseEstatica\bin\Debug\ClasseEstatica.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseEstatica\obj\Debug\ClasseEstatica.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseEstatica\obj\Debug\ClasseEstatica.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseEstatica\obj\Debug\ClasseEstatica.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\ClasseEstatica\obj\Debug\ClasseEstatica.pdb

@@ -8,7 +8,7 @@ namespace TipoDelegate
 {
     internal class Program
     {
-        delegate void Operacao(int n1, int n2);
+        delegate void Operacao(int num1, int num2);
 
         static void Main(string[] args)
         {
