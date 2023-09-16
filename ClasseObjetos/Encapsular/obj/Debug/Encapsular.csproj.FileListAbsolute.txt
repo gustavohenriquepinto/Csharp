@@ -1,0 +1,7 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Encapsular\bin\Debug\Encapsular.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Encapsular\bin\Debug\Encapsular.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Encapsular\bin\Debug\Encapsular.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Encapsular\obj\Debug\Encapsular.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Encapsular\obj\Debug\Encapsular.pdb

@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace ClasseEstatica
 {
-    internal class Pessoa
+    partial class Pessoa
     {
-        public static int maioridade = 18;
-        public string nome;
-        public int idade;
-
         public void Apresentar()
         {
             Console.WriteLine("Olá, eu sou " + nome);
@@ -21,7 +17,5 @@ namespace ClasseEstatica
         {
             return DateTime.Now.Year - anoDeNascimento;
         }
-
-
     }
 }

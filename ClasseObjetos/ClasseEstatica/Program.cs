@@ -11,7 +11,7 @@ namespace ClasseEstatica
     {
         static void Main(string[] args)
         {
-            #region Estática
+            #region Classe Estática
 
             //Matematica.taxa = 10;
 
@@ -23,14 +23,18 @@ namespace ClasseEstatica
 
             #endregion
 
-            Pessoa.maioridade = 21;
-            Pessoa p1 = new Pessoa();
+            #region Membros Estáticos
+            //Pessoa.maioridade = 21;
+            //Pessoa p1 = new Pessoa();
 
-            p1.nome = "Gustavo";
-            p1.idade = Pessoa.CalcularIdade(2004);
+            //p1.nome = "Gustavo";
+            //p1.idade = Pessoa.CalcularIdade(2004);
 
-            Console.WriteLine(p1.nome);
-            Console.WriteLine(p1.idade);
+            //Console.WriteLine(p1.nome);
+            //Console.WriteLine(p1.idade);
+            #endregion
+
+
 
             Console.ReadKey();
         }
