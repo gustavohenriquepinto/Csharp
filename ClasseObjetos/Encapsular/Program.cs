@@ -12,20 +12,21 @@ namespace Encapsular
         {
             Conta c = new Conta();
 
-            c._cliente = "Gustavo";
-            c._saldo = 100;
+            Console.Write("Qual é o seu nome?: ");
+            c.Cliente = Console.ReadLine();
+            Console.WriteLine("Olá, " + c.Cliente + ", seu saldo inicial é de: " + c.Saldo);
 
             //Depósito
-            Console.Write("Deposite: ");
+            Console.Write("\nDeposite: ");
             double deposito = double.Parse(Console.ReadLine());
             c.Depositar(deposito);
 
             //Saque
-            Console.Write("\nSaque: ");
+            Console.Write("Saque (taxa de R$10,00): ");
             double saque = double.Parse(Console.ReadLine());
-            c.Depositar(saque);
+            c.Sacar(saque);
 
-            Console.WriteLine("\nO valor final é de: " + c._saldo);
+            Console.WriteLine("\n"+c.Cliente+", o seu saldo final é de: " + c.Saldo);
             Console.ReadKey();
         }
     }
