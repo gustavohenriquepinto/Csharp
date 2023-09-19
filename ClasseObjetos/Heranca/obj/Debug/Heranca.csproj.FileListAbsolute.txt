@@ -1,0 +1,7 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Heranca\bin\Debug\Heranca.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Heranca\bin\Debug\Heranca.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Heranca\obj\Debug\Heranca.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Heranca\obj\Debug\Heranca.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Heranca\obj\Debug\Heranca.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EAFBE37C-FCD9-45B5-882B-F32B5D1FD448}</ProjectGuid>
+    <ProjectGuid>{0706AE6E-474E-4BB9-9D67-4212ABF3D2E0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClassesObjetos</RootNamespace>
-    <AssemblyName>ClassesObjetos</AssemblyName>
+    <RootNamespace>Heranca</RootNamespace>
+    <AssemblyName>Heranca</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bicicleta.cs" />
+    <Compile Include="Carro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Veiculo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
