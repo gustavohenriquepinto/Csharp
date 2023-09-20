@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Heranca
 {
-    abstract class Veiculo
+     abstract class Veiculo
     {
         public string Cor { get; set; }
         public string Marca { get; set; }
