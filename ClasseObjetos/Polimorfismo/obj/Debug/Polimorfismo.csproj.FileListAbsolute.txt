@@ -1,0 +1,7 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\Polimorfismo\obj\Debug\Polimorfismo.pdb
