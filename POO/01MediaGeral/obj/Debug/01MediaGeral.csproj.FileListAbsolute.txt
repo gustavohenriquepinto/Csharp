@@ -1,0 +1,7 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\01MediaGeral\bin\Debug\01MediaGeral.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\01MediaGeral\bin\Debug\01MediaGeral.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\01MediaGeral\bin\Debug\01MediaGeral.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\01MediaGeral\obj\Debug\01MediaGeral.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\01MediaGeral\obj\Debug\01MediaGeral.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\01MediaGeral\obj\Debug\01MediaGeral.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ClasseObjetos\01MediaGeral\obj\Debug\01MediaGeral.pdb
