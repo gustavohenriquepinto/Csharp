@@ -14,7 +14,14 @@ namespace IntroducaoWindowsFormApp
     {
         public Form1()
         {
+            //Size tamanho = new Size();
+            //tamanho.Width = 400;
+            //tamanho.Height = 700;
+
             InitializeComponent();
+            this.Text = "Texto alterado pelo código Fonte!";
+            this.Size = new Size(400, 700);
+            this.ControlBox = true;
         }
 
         private void button1_Click(object sender, EventArgs e)
