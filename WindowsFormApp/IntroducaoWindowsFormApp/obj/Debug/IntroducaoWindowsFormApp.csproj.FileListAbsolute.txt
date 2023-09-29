@@ -1,0 +1,10 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\WindowsFormApp\IntroducaoWindowsFormApp\bin\Debug\IntroducaoWindowsFormApp.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\WindowsFormApp\IntroducaoWindowsFormApp\bin\Debug\IntroducaoWindowsFormApp.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\WindowsFormApp\IntroducaoWindowsFormApp\bin\Debug\IntroducaoWindowsFormApp.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\WindowsFormApp\IntroducaoWindowsFormApp\obj\Debug\IntroducaoWindowsFormApp.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\WindowsFormApp\IntroducaoWindowsFormApp\obj\Debug\IntroducaoWindowsFormApp.Form1.resources
+C:\Users\Gutvo\Desktop\estudos-programacao\WindowsFormApp\IntroducaoWindowsFormApp\obj\Debug\IntroducaoWindowsFormApp.Properties.Resources.resources
+C:\Users\Gutvo\Desktop\estudos-programacao\WindowsFormApp\IntroducaoWindowsFormApp\obj\Debug\IntroducaoWindowsFormApp.csproj.GenerateResource.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\WindowsFormApp\IntroducaoWindowsFormApp\obj\Debug\IntroducaoWindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\WindowsFormApp\IntroducaoWindowsFormApp\obj\Debug\IntroducaoWindowsFormApp.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\WindowsFormApp\IntroducaoWindowsFormApp\obj\Debug\IntroducaoWindowsFormApp.pdb
