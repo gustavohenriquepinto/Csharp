@@ -37,7 +37,7 @@
             this.botao01.BackColor = System.Drawing.Color.Black;
             this.botao01.Font = new System.Drawing.Font("Microsoft Sans Serif", 18.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.botao01.ForeColor = System.Drawing.Color.Coral;
-            this.botao01.Location = new System.Drawing.Point(254, 138);
+            this.botao01.Location = new System.Drawing.Point(12, 12);
             this.botao01.Name = "botao01";
             this.botao01.Size = new System.Drawing.Size(246, 123);
             this.botao01.TabIndex = 0;
@@ -50,7 +50,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Cornsilk;
-            this.ClientSize = new System.Drawing.Size(784, 461);
+            this.ClientSize = new System.Drawing.Size(984, 461);
             this.Controls.Add(this.botao01);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximumSize = new System.Drawing.Size(1000, 500);
@@ -58,6 +58,9 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Olá, Mundo!";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Click += new System.EventHandler(this.Form1_Click);
             this.ResumeLayout(false);
 
         }

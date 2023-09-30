@@ -19,12 +19,28 @@ namespace IntroducaoWindowsFormApp
             //tamanho.Height = 700;
 
             InitializeComponent();
-            this.Text = "Texto alterado pelo código Fonte!";
-            this.Size = new Size(400, 700);
-            this.ControlBox = true;
+            //this.Text = "Texto alterado pelo código Fonte!";
+            //this.Size = new Size(400, 700);
+            //this.ControlBox = true;
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.Text = "Carregando a Form...";
+        }
+
+        private void Form1_Click(object sender, EventArgs e)
+        {
+            this.Text = "Clicando na Form...";
+            this.Size = new Size(600, 200);
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
 
         }
