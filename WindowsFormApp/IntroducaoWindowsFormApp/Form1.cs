@@ -26,7 +26,7 @@ namespace IntroducaoWindowsFormApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            label1.Text = "Evento Click!";
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -43,6 +43,16 @@ namespace IntroducaoWindowsFormApp
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
 
+        }
+
+        private void botao01_MouseEnter(object sender, EventArgs e)
+        {
+            label1.Text = "Evento Mouse Enter!";
+        }
+
+        private void botao01_MouseLeave(object sender, EventArgs e)
+        {
+            label1.Text = "Evento Mouse Leave!";
         }
     }
 }

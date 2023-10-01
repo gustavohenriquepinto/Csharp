@@ -46,14 +46,19 @@
             this.botao01.Text = "Não Clique Aqui!";
             this.botao01.UseVisualStyleBackColor = false;
             this.botao01.Click += new System.EventHandler(this.button1_Click);
+            this.botao01.MouseEnter += new System.EventHandler(this.botao01_MouseEnter);
+            this.botao01.MouseLeave += new System.EventHandler(this.botao01_MouseLeave);
             // 
             // label1
             // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("MV Boli", 15F, ((System.Drawing.FontStyle)(((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic) 
+                | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.SteelBlue;
             this.label1.Location = new System.Drawing.Point(14, 9);
             this.label1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(179, 35);
+            this.label1.Size = new System.Drawing.Size(174, 26);
             this.label1.TabIndex = 1;
             this.label1.Text = "Texto aleatório";
             // 
@@ -80,6 +85,7 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             this.Click += new System.EventHandler(this.Form1_Click);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
