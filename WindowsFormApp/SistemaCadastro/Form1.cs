@@ -39,7 +39,7 @@ namespace SistemaCadastro
                 }
             }
 
-            if (txtNome.Text == "")
+            if (txtNome.Text == "(  )      -")
             {
                 MessageBox.Show("Preencha o campo nome.");
                 txtNome.Focus();
@@ -90,14 +90,27 @@ namespace SistemaCadastro
 
         private void btnExcluir_Click(object sender, EventArgs e)
         {
+            int indice = lista.SelectedIndex;
+            pessoas.RemoveAt(indice);
 
+            Listar();
         }
 
         private void btnLimpar_Click(object sender, EventArgs e)
         {
+            txtNome.Text = "";
+            txtData.Text = "";
+            comboEC.SelectedIndex = 1;
+            txtTelefone.Text = "";
+            checkCasa.Checked = false;
+            checkVeiculo.Checked = false;
+            radioM.Checked = true;
+            radioF.Checked = false;
+            radioO.Checked = false;
 
+            txtNome.Focus();
         }
-
+         
         private void Listar()
         {
             lista.Items.Clear();
