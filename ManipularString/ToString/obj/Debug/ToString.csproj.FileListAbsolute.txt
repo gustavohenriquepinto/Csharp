@@ -1,0 +1,10 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularString\ToString\bin\Debug\ToString.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularString\ToString\bin\Debug\ToString.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularString\ToString\bin\Debug\ToString.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularString\ToString\obj\Debug\ToString.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularString\ToString\obj\Debug\ToString.Form1.resources
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularString\ToString\obj\Debug\ToString.Properties.Resources.resources
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularString\ToString\obj\Debug\ToString.csproj.GenerateResource.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularString\ToString\obj\Debug\ToString.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularString\ToString\obj\Debug\ToString.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularString\ToString\obj\Debug\ToString.pdb

@@ -193,6 +193,7 @@
             this.lista.Name = "lista";
             this.lista.Size = new System.Drawing.Size(741, 124);
             this.lista.TabIndex = 11;
+            this.lista.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.lista_MouseDoubleClick);
             // 
             // btnCadastrar
             // 
