@@ -19,7 +19,8 @@ namespace ToString
 
         private void btnExecutar_Click(object sender, EventArgs e)
         {
-            string texto = "Este tipo de variável é alfanumérica";
+            #region ToString/Contains
+            //string texto = "Este tipo de variável é alfanumérica";
 
             //if (texto.Contains("tipo"))
             //{
@@ -30,8 +31,12 @@ namespace ToString
             //    txt1.Text = "Não Contém.";
             //}
 
-            int num = 5400;
-            txt1.Text = num.ToString();
+            //int numero = 5400;
+            //bool logico = false;
+
+            //txt1.Text = numero.ToString();
+            //txt1.Text = logico.ToString();
+            #endregion
         }
     }
 }
