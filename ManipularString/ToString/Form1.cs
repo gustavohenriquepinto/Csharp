@@ -67,17 +67,36 @@ namespace ToString
 
             #region Insert / Replace
 
-            string nome = "Henrique Silva";
-            string nomeFinal = nome.Insert(9, "Gustavo ");
+            //string nome = "Henrique Silva";
+            //string nomeFinal = nome.Insert(9, "Gustavo ");
 
-            nomeFinal = nomeFinal.Replace('a', 'y');
+            //nomeFinal = nomeFinal.Replace('a', 'y');
 
-            txt1.Text = nomeFinal;
+            //txt1.Text = nomeFinal;
 
             #endregion
 
             #region Length / SubString
 
+            //string nome = "Gustavo Henrique Silva";
+            //int tamanho = nome.Length;
+
+            //txt1.Text = "Seu nome contém: " + tamanho + " letras.\n";
+
+            //for(int i = 0; i < tamanho; i++)
+            //{
+            //    txt1.Text += nome[i];
+            //}
+
+            //string parteDoNome = nome.Substring(0, 7);
+            //txt1.Text += "\n" + parteDoNome;
+
+            //parteDoNome = nome.Substring(nome.IndexOf(" ") + 1);
+            //txt1.Text += "\n" + parteDoNome;
+
+            #endregion
+
+            #region
             #endregion
         }
     }
