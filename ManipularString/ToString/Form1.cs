@@ -98,6 +98,55 @@ namespace ToString
 
             #region Split
 
+            // txt1.Text = null;
+
+            ////string nomes = "Gustavo Leonardo-Rafael_Daniela_Luísa-Giovana";
+            ////char[] separador = { ' ', '-', '_' };
+
+            ////string[] resultado = nomes.Split(separador);
+
+            //string nomes = "Gustavo_+_Leonardo_+_Rafael_+_Daniela_+_Luísa_+_Giovana";
+            // string[] separador = { "_+_" };
+
+            // string[] resultado = nomes.Split(separador, StringSplitOptions.None);
+
+            // foreach (string nome in resultado)
+            // {
+            //     txt1.Text += nome + "\n";
+            // }
+            #endregion
+
+            #region StartsWith / EndsWith
+
+            //txt1.Text = null;
+            //string nome = "Gabriel";
+
+            //if (nome.StartsWith("g", StringComparison.OrdinalIgnoreCase))
+            //{
+            //    txt1.Text += "Começa com G. ";
+            //}
+            //else
+            //{
+            //    txt1.Text += "Não começa com G. ";
+            //}
+
+            //if (nome.EndsWith("o"))
+            //{
+            //    txt1.Text += "Termina com o.";
+            //}
+            //else
+            //{
+            //    txt1.Text += "Não termina com o.";
+            //}
+
+            #endregion
+
+            #region Trim / TrimStart / TrimEnd
+
+            string mensagem = "     %%9 --___9 %  Olá  ,    mundo!    ";
+            char[] separadores = { ' ', '%', '9', '-', '_' };
+
+            txt1.Text = ">" + mensagem.Trim(separadores) + "<";
 
             #endregion
         }
