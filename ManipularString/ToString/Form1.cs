@@ -149,6 +149,29 @@ namespace ToString
             txt1.Text = ">" + mensagem.Trim(separadores) + "<";
 
             #endregion
+
+            #region CompareTo / Equals
+
+            //string nome = "Lucas", nome2 = "Gabriel";
+
+            ////if (nome.Equals("gUStavo", StringComparison.OrdinalIgnoreCase))
+            ////{
+            ////    txt1.Text = "São iguais.";
+            ////}
+            ////else
+            ////{
+            ////    txt1.Text = "São diferentes";
+            ////}
+
+            //txt1.Text = nome.CompareTo(nome2).ToString();
+
+            #endregion
+
+            #region Format
+
+
+
+            #endregion
         }
     }
 }
