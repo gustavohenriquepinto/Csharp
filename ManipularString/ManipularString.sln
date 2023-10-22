@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToString", "ToString\ToString.csproj", "{A8801C4A-A476-40F0-8A0A-1C5FC5CBE991}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaLogin", "SistemaLogin\SistemaLogin.csproj", "{4C62711E-2D81-47A9-B37B-117DEE0BFE2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A8801C4A-A476-40F0-8A0A-1C5FC5CBE991}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8801C4A-A476-40F0-8A0A-1C5FC5CBE991}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8801C4A-A476-40F0-8A0A-1C5FC5CBE991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C62711E-2D81-47A9-B37B-117DEE0BFE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C62711E-2D81-47A9-B37B-117DEE0BFE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C62711E-2D81-47A9-B37B-117DEE0BFE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C62711E-2D81-47A9-B37B-117DEE0BFE2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
