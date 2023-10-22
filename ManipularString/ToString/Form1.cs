@@ -143,10 +143,10 @@ namespace ToString
 
             #region Trim / TrimStart / TrimEnd
 
-            string mensagem = "     %%9 --___9 %  Olá  ,    mundo!    ";
-            char[] separadores = { ' ', '%', '9', '-', '_' };
+            //string mensagem = "     %%9 --___9 %  Olá  ,    mundo!    ";
+            //char[] separadores = { ' ', '%', '9', '-', '_' };
 
-            txt1.Text = ">" + mensagem.Trim(separadores) + "<";
+            //txt1.Text = ">" + mensagem.Trim(separadores) + "<";
 
             #endregion
 
@@ -169,7 +169,16 @@ namespace ToString
 
             #region Format
 
+            ////decimal valor = 19.95m;
+            ////double temperatura = 25.8;
 
+            ////string mensagem = "O valor do produto é: " + valor + ". E a temperatura é de: " + temperatura + "°C.";
+            ////mensagem = String.Format("O valor do produto é: {0:C2}. E a temperatura é de: {1:N3}°C.", valor, temperatura); 
+
+            ////string mensagem = String.Format("Hoje é {0:D} e são {0:T} horas.", DateTime.Now);
+            //string mensagem = $"Hoje é {DateTime.Now:D} e são {DateTime.Now:T} horas.";
+
+            //txt1.Text = mensagem;
 
             #endregion
         }
