@@ -1,0 +1,10 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.exe.config
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.AssemblyReference.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.Form1.resources
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.Properties.Resources.resources
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.GenerateResource.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.pdb
