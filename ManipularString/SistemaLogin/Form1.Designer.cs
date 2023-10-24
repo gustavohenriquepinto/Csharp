@@ -33,10 +33,11 @@
             // 
             // labelBoasVindas
             // 
+            this.labelBoasVindas.AutoSize = true;
             this.labelBoasVindas.Font = new System.Drawing.Font("Microsoft Sans Serif", 32F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelBoasVindas.Location = new System.Drawing.Point(260, 155);
             this.labelBoasVindas.Name = "labelBoasVindas";
-            this.labelBoasVindas.Size = new System.Drawing.Size(281, 140);
+            this.labelBoasVindas.Size = new System.Drawing.Size(241, 51);
             this.labelBoasVindas.TabIndex = 0;
             this.labelBoasVindas.Text = "Tela Inicial";
             // 
@@ -51,6 +52,7 @@
             this.Text = "Início";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 

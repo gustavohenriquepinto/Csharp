@@ -20,7 +20,22 @@ namespace SistemaLogin
         private void Form1_Load(object sender, EventArgs e)
         {
             FormLogin login = new FormLogin();
-            login.ShowDialog();
+
+            while (UsuarioCadastro.UsuarioLogado == null)
+            {
+                Visible = false;
+
+                login.ShowDialog();
+
+                if(FormLogin.Cancelar)
+                {
+                    Application.Exit();
+                    return;
+                }
+            }
+
+            labelBoasVindas.Text = $"Bem vindo, {UsuarioCadastro.UsuarioLogado.Nome}!";
+            Visible = true;
         }
     }
 }

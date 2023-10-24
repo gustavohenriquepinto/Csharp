@@ -59,6 +59,7 @@
             this.txtSenha.Location = new System.Drawing.Point(129, 80);
             this.txtSenha.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtSenha.Name = "txtSenha";
+            this.txtSenha.PasswordChar = '*';
             this.txtSenha.Size = new System.Drawing.Size(338, 35);
             this.txtSenha.TabIndex = 3;
             // 
