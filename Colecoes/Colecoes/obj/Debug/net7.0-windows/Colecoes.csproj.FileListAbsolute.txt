@@ -1,0 +1,16 @@
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\bin\Debug\net7.0-windows\Colecoes.exe
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\bin\Debug\net7.0-windows\Colecoes.deps.json
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\bin\Debug\net7.0-windows\Colecoes.runtimeconfig.json
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\bin\Debug\net7.0-windows\Colecoes.dll
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\bin\Debug\net7.0-windows\Colecoes.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\obj\Debug\net7.0-windows\Colecoes.Form1.resources
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\obj\Debug\net7.0-windows\Colecoes.csproj.GenerateResource.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\obj\Debug\net7.0-windows\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\obj\Debug\net7.0-windows\Colecoes.AssemblyInfoInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\obj\Debug\net7.0-windows\Colecoes.AssemblyInfo.cs
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\obj\Debug\net7.0-windows\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\obj\Debug\net7.0-windows\Colecoes.dll
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\obj\Debug\net7.0-windows\refint\Colecoes.dll
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\obj\Debug\net7.0-windows\Colecoes.pdb
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\obj\Debug\net7.0-windows\Colecoes.genruntimeconfig.cache
+C:\Users\Gutvo\Desktop\estudos-programacao\Colecoes\Colecoes\obj\Debug\net7.0-windows\ref\Colecoes.dll

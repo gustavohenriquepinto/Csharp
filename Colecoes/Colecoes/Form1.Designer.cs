@@ -28,12 +28,49 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            lista = new ListBox();
+            btnList = new Button();
+            SuspendLayout();
+            // 
+            // lista
+            // 
+            lista.FormattingEnabled = true;
+            lista.ItemHeight = 30;
+            lista.Location = new Point(14, 15);
+            lista.Margin = new Padding(5, 6, 5, 6);
+            lista.Name = "lista";
+            lista.Size = new Size(600, 484);
+            lista.TabIndex = 0;
+            // 
+            // btnList
+            // 
+            btnList.Location = new Point(624, 15);
+            btnList.Margin = new Padding(5, 6, 5, 6);
+            btnList.Name = "btnList";
+            btnList.Size = new Size(174, 78);
+            btnList.TabIndex = 1;
+            btnList.Text = "List";
+            btnList.UseVisualStyleBackColor = true;
+            btnList.Click += btnList_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(13F, 30F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(812, 533);
+            Controls.Add(btnList);
+            Controls.Add(lista);
+            Font = new Font("Segoe UI", 16F, FontStyle.Bold, GraphicsUnit.Point);
+            Margin = new Padding(5, 6, 5, 6);
+            Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Listas Genéricas";
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private ListBox lista;
+        private Button btnList;
     }
 }
