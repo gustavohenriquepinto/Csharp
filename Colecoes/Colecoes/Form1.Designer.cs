@@ -30,6 +30,7 @@
         {
             lista = new ListBox();
             btnList = new Button();
+            btnHashSet = new Button();
             SuspendLayout();
             // 
             // lista
@@ -53,11 +54,23 @@
             btnList.UseVisualStyleBackColor = true;
             btnList.Click += btnList_Click;
             // 
+            // btnHashSet
+            // 
+            btnHashSet.Location = new Point(624, 105);
+            btnHashSet.Margin = new Padding(5, 6, 5, 6);
+            btnHashSet.Name = "btnHashSet";
+            btnHashSet.Size = new Size(174, 78);
+            btnHashSet.TabIndex = 2;
+            btnHashSet.Text = "HashSet";
+            btnHashSet.UseVisualStyleBackColor = true;
+            btnHashSet.Click += btnHashSet_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 30F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(812, 533);
+            Controls.Add(btnHashSet);
             Controls.Add(btnList);
             Controls.Add(lista);
             Font = new Font("Segoe UI", 16F, FontStyle.Bold, GraphicsUnit.Point);
@@ -72,5 +85,6 @@
 
         private ListBox lista;
         private Button btnList;
+        private Button btnHashSet;
     }
 }
