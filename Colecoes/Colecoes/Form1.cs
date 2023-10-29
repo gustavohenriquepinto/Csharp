@@ -103,27 +103,53 @@ namespace Colecoes
 
         private void btnDictionary_Click(object sender, EventArgs e)
         {
-            lista.Items.Clear();
+            #region Dictionary
+            //lista.Items.Clear();
 
-            Dictionary<int, string> alunos = new Dictionary<int, string>()
-            {
-                {25, "Henrique"},
-                {80, "Henrique"}
-            };
+            //Dictionary<int, string> alunos = new Dictionary<int, string>()
+            //{
+            //    {25, "Henrique"},
+            //    {80, "Henrique"}
+            //};
 
-            alunos.Add(100, "Gustavo");
-            int quantidadeDeAlunos = alunos.Count;
-            bool alunoFoiRemovido = alunos.Remove(80);
-            KeyValuePair<int, string> primeiroAluno = alunos.First();
-            string ultimoAluno = alunos.Last().Value;
-            bool contemChave = alunos.ContainsKey(30);
-            bool contemValor = alunos.ContainsValue("Gustavo");
-            alunos.Clear();
+            //alunos.Add(100, "Gustavo");
+            //int quantidadeDeAlunos = alunos.Count;
+            //bool alunoFoiRemovido = alunos.Remove(80);
+            //KeyValuePair<int, string> primeiroAluno = alunos.First();
+            //string ultimoAluno = alunos.Last().Value;
+            //bool contemChave = alunos.ContainsKey(30);
+            //bool contemValor = alunos.ContainsValue("Gustavo");
+            //alunos.Clear();
 
-            foreach (KeyValuePair<int, string> aluno in alunos)
-            {
-                lista.Items.Add(aluno.Value);
-            }
+            //foreach (KeyValuePair<int, string> aluno in alunos)
+            //{
+            //    lista.Items.Add(aluno.Value);
+            //}
+            #endregion
+        }
+
+        private void btnSortedList_Click(object sender, EventArgs e)
+        {
+            #region SortedList
+            //lista.Items.Clear();
+            //SortedList<int, string> alunos = new SortedList<int, string>()
+            //{
+            //    {30,"Gustavo" },
+            //    {15,"Lucas" },
+            //    {80, "Eu" }
+            //};
+
+            //alunos.Add(35, "Maria");
+            //alunos.Add(38, "Maria");
+            //alunos.Remove(38);
+            //alunos.RemoveAt(2);
+
+
+            //foreach (KeyValuePair<int, string> aluno in alunos.Reverse())
+            //{
+            //    lista.Items.Add(aluno);
+            //}
+            #endregion
         }
     }
 }

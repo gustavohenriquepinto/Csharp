@@ -32,6 +32,7 @@
             btnList = new Button();
             btnHashSet = new Button();
             btnDictionary = new Button();
+            btnSortedList = new Button();
             SuspendLayout();
             // 
             // lista
@@ -77,11 +78,23 @@
             btnDictionary.UseVisualStyleBackColor = true;
             btnDictionary.Click += btnDictionary_Click;
             // 
+            // btnSortedList
+            // 
+            btnSortedList.Location = new Point(624, 285);
+            btnSortedList.Margin = new Padding(5, 6, 5, 6);
+            btnSortedList.Name = "btnSortedList";
+            btnSortedList.Size = new Size(174, 78);
+            btnSortedList.TabIndex = 4;
+            btnSortedList.Text = "SortedList";
+            btnSortedList.UseVisualStyleBackColor = true;
+            btnSortedList.Click += btnSortedList_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 30F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(812, 533);
+            Controls.Add(btnSortedList);
             Controls.Add(btnDictionary);
             Controls.Add(btnHashSet);
             Controls.Add(btnList);
@@ -100,5 +113,6 @@
         private Button btnList;
         private Button btnHashSet;
         private Button btnDictionary;
+        private Button btnSortedList;
     }
 }
