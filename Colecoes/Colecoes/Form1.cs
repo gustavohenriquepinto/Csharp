@@ -61,25 +61,68 @@ namespace Colecoes
 
         private void btnHashSet_Click(object sender, EventArgs e)
         {
+            #region HashSet
+            //lista.Items.Clear();
+
+            //HashSet<string> veiculosHashSet = new HashSet<string>()
+            //{
+            //    "Carro", "Moto", "Avião","Helicóptero", "Barco"
+            //};
+
+            ////if (veiculosHashSet.Add("Bicicleta"))
+            ////{
+            ////    MessageBox.Show("Um item foi adicionado.");
+            ////}
+            ////else
+            ////{
+            ////    MessageBox.Show("Um item não pôde ser adicionado.");
+            ////}
+
+            ////if (veiculosHashSet.Contains("Carro"))
+            ////{
+            ////    MessageBox.Show("Contém carro.");
+            ////}
+            ////else
+            ////{
+            ////    MessageBox.Show("Não contém carro.");
+            ////}
+
+            ////bool foiRemovido = veiculosHashSet.Remove("Carro");
+            ////int quantidadeDeVeiculos = veiculosHashSet.Count;
+            ////veiculosHashSet.Clear();
+            ////veiculosHashSet.First();
+            ////veiculosHashSet.Last();
+            ////veiculosHashSet.ElementAt();
+
+            //foreach (string veiculo in veiculosHashSet)
+            //{
+            //    lista.Items.Add(veiculo);
+            //}
+            #endregion
+        }
+
+        private void btnDictionary_Click(object sender, EventArgs e)
+        {
             lista.Items.Clear();
 
-            HashSet<string> veiculosHashSet = new HashSet<string>()
+            Dictionary<int, string> alunos = new Dictionary<int, string>()
             {
-                "Carro", "Moto", "Avião","Helicóptero", "Barco"
+                {25, "Henrique"},
+                {80, "Henrique"}
             };
 
-            if (veiculosHashSet.Add("Moto"))
-            {
-                MessageBox.Show("Um item foi adicionado.");
-            }
-            else
-            {
-                MessageBox.Show("Um item não pôde ser adicionado.");
-            }
+            alunos.Add(100, "Gustavo");
+            int quantidadeDeAlunos = alunos.Count;
+            bool alunoFoiRemovido = alunos.Remove(80);
+            KeyValuePair<int, string> primeiroAluno = alunos.First();
+            string ultimoAluno = alunos.Last().Value;
+            bool contemChave = alunos.ContainsKey(30);
+            bool contemValor = alunos.ContainsValue("Gustavo");
+            alunos.Clear();
 
-            foreach (string veiculo in veiculosHashSet)
+            foreach (KeyValuePair<int, string> aluno in alunos)
             {
-                lista.Items.Add(veiculo);
+                lista.Items.Add(aluno.Value);
             }
         }
     }

@@ -31,6 +31,7 @@
             lista = new ListBox();
             btnList = new Button();
             btnHashSet = new Button();
+            btnDictionary = new Button();
             SuspendLayout();
             // 
             // lista
@@ -65,11 +66,23 @@
             btnHashSet.UseVisualStyleBackColor = true;
             btnHashSet.Click += btnHashSet_Click;
             // 
+            // btnDictionary
+            // 
+            btnDictionary.Location = new Point(624, 195);
+            btnDictionary.Margin = new Padding(5, 6, 5, 6);
+            btnDictionary.Name = "btnDictionary";
+            btnDictionary.Size = new Size(174, 78);
+            btnDictionary.TabIndex = 3;
+            btnDictionary.Text = "Dictionary";
+            btnDictionary.UseVisualStyleBackColor = true;
+            btnDictionary.Click += btnDictionary_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 30F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(812, 533);
+            Controls.Add(btnDictionary);
             Controls.Add(btnHashSet);
             Controls.Add(btnList);
             Controls.Add(lista);
@@ -86,5 +99,6 @@
         private ListBox lista;
         private Button btnList;
         private Button btnHashSet;
+        private Button btnDictionary;
     }
 }
