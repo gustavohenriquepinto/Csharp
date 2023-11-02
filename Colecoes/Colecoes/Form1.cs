@@ -11,13 +11,10 @@ namespace Colecoes
 
         private void btnList_Click(object sender, EventArgs e)
         {
-            #region List
             //lista.Items.Clear();
 
-            ////Array
             //string[] users = { "Gustavo", "Henrique", "Silva" };
 
-            ////Lista Genérica
             //List<string> usersList = new List<string>();
 
             //usersList.Add("Gabriel");
@@ -56,12 +53,10 @@ namespace Colecoes
             //{
             //    lista.Items.Add(name);
             //}
-            #endregion
         }
 
         private void btnHashSet_Click(object sender, EventArgs e)
         {
-            #region HashSet
             //lista.Items.Clear();
 
             //HashSet<string> veiculosHashSet = new HashSet<string>()
@@ -98,12 +93,10 @@ namespace Colecoes
             //{
             //    lista.Items.Add(veiculo);
             //}
-            #endregion
         }
 
         private void btnDictionary_Click(object sender, EventArgs e)
         {
-            #region Dictionary
             //lista.Items.Clear();
 
             //Dictionary<int, string> alunos = new Dictionary<int, string>()
@@ -125,12 +118,10 @@ namespace Colecoes
             //{
             //    lista.Items.Add(aluno.Value);
             //}
-            #endregion
         }
 
         private void btnSortedList_Click(object sender, EventArgs e)
         {
-            #region SortedList
             //lista.Items.Clear();
             //SortedList<int, string> alunos = new SortedList<int, string>()
             //{
@@ -149,7 +140,68 @@ namespace Colecoes
             //{
             //    lista.Items.Add(aluno);
             //}
-            #endregion
+        }
+
+        private void btnSortedDictionary_Click(object sender, EventArgs e)
+        {
+            //SortedDictionary<int, string> alunos = new SortedDictionary<int, string>()
+            //{
+            //    {4512, "Gustavo" },
+            //    {134, "Henrique" }
+            //};
+
+            //alunos.Add(2412, "Maria");
+            //bool foiRemovido = alunos.Remove(10);
+            //int quantidadeAlunos = alunos.Count;
+            //bool contemValor = alunos.ContainsValue("j3iuf");
+            //bool contemChave = alunos.ContainsKey(245);
+            //alunos.Clear();
+            //KeyValuePair<int, string> parChaveValor = alunos.ElementAt(0);
+
+            //foreach (KeyValuePair<int, string> aluno in alunos)
+            //{
+            //    lista.Items.Add(aluno);
+            //}
+        }
+
+        private void btnSortedSet_Click(object sender, EventArgs e)
+        {
+            //lista.Items.Clear();
+
+            //SortedSet<string> nomes = new SortedSet<string>()
+            //{
+            //    "Gustavo", "Maria", "Alberto", "Pedro", "Carlos"
+            //};
+
+            //if (nomes.Add("Lucas"))
+            //{
+            //    MessageBox.Show("Lucas foi adicionado");
+            //}
+            //else
+            //{
+            //    MessageBox.Show("Já contém Lucas");
+            //}
+
+            //foreach (string nome in nomes)
+            //{
+            //    lista.Items.Add(nome);
+            //}
+
+        }
+
+        private void btnQueue_Click(object sender, EventArgs e)
+        {
+            Queue<string> fila = new Queue<string>();
+            fila.Enqueue("Gustavo");
+            fila.Enqueue("Henrique");
+            fila.Enqueue("Silva");
+
+            MessageBox.Show(fila.Count.ToString());
+
+            foreach(string item in fila)
+            {
+                lista.Items.Add(item);
+            }
         }
     }
 }
