@@ -106,7 +106,7 @@
             // 
             // btnSortedSet
             // 
-            btnSortedSet.Location = new Point(578, 380);
+            btnSortedSet.Location = new Point(578, 319);
             btnSortedSet.Margin = new Padding(4, 5, 4, 5);
             btnSortedSet.Name = "btnSortedSet";
             btnSortedSet.Size = new Size(184, 47);
@@ -117,7 +117,7 @@
             // 
             // btnQueue
             // 
-            btnQueue.Location = new Point(578, 319);
+            btnQueue.Location = new Point(578, 380);
             btnQueue.Margin = new Padding(4, 5, 4, 5);
             btnQueue.Name = "btnQueue";
             btnQueue.Size = new Size(184, 47);

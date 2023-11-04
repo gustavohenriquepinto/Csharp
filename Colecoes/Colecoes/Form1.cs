@@ -191,17 +191,25 @@ namespace Colecoes
 
         private void btnQueue_Click(object sender, EventArgs e)
         {
-            Queue<string> fila = new Queue<string>();
-            fila.Enqueue("Gustavo");
-            fila.Enqueue("Henrique");
-            fila.Enqueue("Silva");
+            //lista.Items.Clear();
 
-            MessageBox.Show(fila.Count.ToString());
+            //Queue<string> fila = new Queue<string>();
+            //fila.Enqueue("Gustavo");
+            //fila.Enqueue("Henrique");
+            //fila.Enqueue("Silva");
 
-            foreach(string item in fila)
-            {
-                lista.Items.Add(item);
-            }
+            ////MessageBox.Show(fila.Count.ToString());
+
+            //MessageBox.Show(fila.Peek());
+            //MessageBox.Show(fila.Dequeue());
+            //MessageBox.Show(fila.First());
+            //MessageBox.Show(fila.Last());
+
+
+            //foreach (string item in fila)
+            //{
+            //    lista.Items.Add(item);
+            //}
         }
     }
 }
