@@ -135,6 +135,7 @@
             btnStack.TabIndex = 8;
             btnStack.Text = "Stack";
             btnStack.UseVisualStyleBackColor = true;
+            btnStack.Click += btnStack_Click;
             // 
             // Form1
             // 
